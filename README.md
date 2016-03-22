@@ -3,7 +3,7 @@ Avasojo.com
 =========
 
 Avasojo.com is a development platform for building mobile and desktop web applications. This is the
-repository for [Avasojo.com][Angular 2][ng2], both the JavaScript (JS) and [Dart][dart] versions.
+repository for [Avasojo.com].
 
 Avasojo.com is currently in **Beta**. 
 
