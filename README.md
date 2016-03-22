@@ -25,4 +25,4 @@ guidelines for [contributing][contributing] and then check out one of our issues
 [ng2]: http://angular.io
 [ngDart]: http://angulardart.org
 [ngJS]: http://angularjs.org
-[Avasojo.com]: https://avasojo.com:8080
+[Avasojo.com]: http://avasojo.com:8080
