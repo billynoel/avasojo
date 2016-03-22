@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" output="target/classes" path="src/main/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry excluding="**" kind="src" output="target/classes" path="src/main/resources">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" output="target/test-classes" path="src/test/java">
+		<attributes>
+			<attribute name="optional" value="true"/>
+			<attribute name="maven.pomderived" value="true"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/alt-rt.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/charsets.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/deploy.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/javaws.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/jce.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/jfr.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/jfxrt.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/jsse.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/management-agent.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/plugin.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/resources.jar"/>
+	<classpathentry kind="lib" path="C:/java/jdk1.7.0_79/jre/lib/rt.jar"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.junit.JUNIT_CONTAINER/4"/>
+	<classpathentry kind="lib" path="C:/Users/Avasojo/.m2/repository/org/springframework/spring-test/3.0.6.RELEASE/spring-test-3.0.6.RELEASE.jar" sourcepath="C:/Users/Avasojo/.m2/repository/org/springframework/spring-test/3.0.6.RELEASE/spring-test-3.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-test"/>
+			<attribute name="maven.version" value="3.0.6.RELEASE"/>
+			<attribute name="maven.scope" value="test"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Avasojo/.m2/repository/org/springframework/spring-context/3.0.6.RELEASE/spring-context-3.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-context"/>
+			<attribute name="maven.version" value="3.0.6.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Avasojo/.m2/repository/org/springframework/spring-beans/3.0.6.RELEASE/spring-beans-3.0.6.RELEASE.jar">
+		<attributes>
+			<attribute name="maven.pomderived" value="true"/>
+			<attribute name="maven.groupId" value="org.springframework"/>
+			<attribute name="maven.artifactId" value="spring-beans"/>
+			<attribute name="maven.version" value="3.0.6.RELEASE"/>
+			<attribute name="maven.scope" value="compile"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="output" path="target/classes"/>
+</classpath>
